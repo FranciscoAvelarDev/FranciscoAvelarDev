@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Francisco Avelar  
 
-<!--
-**FranciscoAvelarDev/FranciscoAvelarDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | NestJS • Vue • React • Java Spring Boot • Oracle/MySQL**  
 
-Here are some ideas to get you started:
+Soy desarrollador con más de 7 años de experiencia creando soluciones web y APIs seguras. Me apasiona transformar ideas en aplicaciones prácticas y escalables, con un enfoque en **calidad de código y entregas puntuales**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías principales
+- **Backend:** NestJS, Node.js, Java Spring Boot, PHP  
+- **Frontend:** Vue 3, React, Angular, Bootstrap, TailwindCSS  
+- **Bases de datos:** MySQL, Oracle, Prisma ORM  
+- **DevOps:** Docker, VPS (GCP), CI/CD básico  
+
+## 📂 Proyectos destacados
+- 🌐 CRUD Full Stack (NestJS + Vue)  
+- 🔐 API con JWT + Prisma  
+- 📊 Dashboard administrativo (Vue + API REST)  
+
+## 📫 Conecta conmigo
+- 🌍 [Portafolio](https://mrsoftware.tech)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/francisco-javier-avelar-vásquez-46aa00217)  
+- ✉️ francisco.avelar@mrsoftware.tech  
+
+---
+✨ _“Más allá de programar, me enfoco en entender el negocio para crear soluciones que realmente resuelvan problemas.”_
